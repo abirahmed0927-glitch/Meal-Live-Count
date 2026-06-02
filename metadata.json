@@ -1,0 +1,6 @@
+{
+  "name": "Meal Sheet Syncer",
+  "description": "Cross-connect Google Sheets meal tracking and Gemini AI. Includes automatic date Column 5 matching, real Apps Script hooks, and meal logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
